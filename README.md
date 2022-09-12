@@ -1,7 +1,7 @@
 ## Hello there, I'm Nícolas Romancini
 <div align="center">
   <a https://github.com/nckrts">
-  <img height="180em" src="https://camo.githubusercontent.com/2aa02bd58244d284a2584148a7e90742a854335143a45e84743df6fe7187660d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d6e636b7274732673686f775f69636f6e733d74727565267468656d653d6461726b26696e636c7564655f616c6c5f636f6d6d6974733d7472756526636f756e745f707269766174653d74727565"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nckrts&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nckrts&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
