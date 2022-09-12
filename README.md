@@ -1,5 +1,6 @@
-## Hello there, I'm Nícolas Romancini
-## I'am a developer working at Iopoint
+#### Hello there, I'm Nícolas Romancini
+- 🌙 I'am a Junior developer working at Iopoint
+
 <div align="center">
   <a href="https://github.com/nckrts">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nckrts&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
