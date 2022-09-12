@@ -1,5 +1,5 @@
 ### Hello there, I'm Nícolas Romancini
-- 💻 I'am a Junior developer working at Iopoint
+- 💻 I'm a Junior developer working at Iopoint
 
 ##
 
