@@ -27,5 +27,6 @@
   <a href="https://www.linkedin.com/in/nícolas-romancini-197131149" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   ![Snake animation](https://github.com/nckrts/nckrts/blob/output/github-contribution-grid-snake.svg)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nckrts&theme=synthwave_icons=true)
 
 </div>
