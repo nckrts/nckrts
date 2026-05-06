@@ -41,8 +41,8 @@ Já tive experiência criando **microservices para automação de processos**, r
 
 ## 📫 Bora se conectar
 
-- 💼 LinkedIn: [seu-link-aqui]
-- 📷 Instagram: [seu-link-aqui]
+- 💼 LinkedIn: https://www.linkedin.com/in/n%C3%ADcolas-romancini-197131149/
+
 
 ---
 
