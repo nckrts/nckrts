@@ -1,34 +1,49 @@
-### Hello there, I'm Nícolas Romancini
-- 💻 I'm a developer working at Iopoint
+# 👋 Fala aí, eu sou o Nícolas Romancini!
 
+💻 Desenvolvedor Full Stack apaixonado por tecnologia, automação e construção de soluções que realmente resolvem problemas.
 
-##
+🚀 Atualmente focado em desenvolvimento com:
+- **TypeScript | JavaScript**
+- **Angular | React**
+- **Node.js**
+- **Python**
+- **Java**
+- **APIs REST**
+- **Banco de Dados (SQL/NoSQL)**
 
-<div align="center">
-  <a href="https://github.com/nckrts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nckrts&theme=synthwave"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nckrts&layout=donut&theme=synthwave"/>
-</div>
-<div style="display: inline_block"><br>
- <img align="center" alt="Nck-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg">
-  <img align="center" alt="Nck-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg">
-  <img align="center" alt="Nck-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Nck-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Nck-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
-  <img align="center" alt="Nck-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-  <img align="center" alt="Nck-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Nck-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="Nck-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/chrome/chrome-original.svg">
+---
 
+## 🧠 Sobre mim
 
-</div>
+Sou um dev que curte ir além do básico. Gosto de entender o problema de negócio antes de sair codando e sempre busco soluções eficientes e escaláveis.
 
-##
- 
-<div>
-  <a href="https://instagram.com/n3k0_las" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/nícolas-romancini-197131149" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  ![Snake animation](https://github.com/nckrts/nckrts/blob/output/github-contribution-grid-snake.svg)
+Já tive experiência criando **microservices para automação de processos**, reduzindo trabalho manual e aumentando a eficiência operacional — tipo transformar tarefas repetitivas em sistemas inteligentes.
 
-</div>
+---
+
+## ⚡ O que você vai encontrar aqui
+
+- Projetos Full Stack
+- APIs e microsserviços
+- Automações
+- Estudos e experimentos com novas tecnologias
+
+---
+
+## 📈 Atualmente estudando
+
+- Arquitetura de Software
+- Boas práticas (Clean Code, SOLID)
+- Testes automatizados
+- Cloud & DevOps
+
+---
+
+## 📫 Bora se conectar
+
+- 💼 LinkedIn: [seu-link-aqui]
+- 📷 Instagram: [seu-link-aqui]
+
+---
+
+💡 *Sempre aberto a oportunidades e novos desafios!*
