@@ -6,6 +6,9 @@
 - **TypeScript | JavaScript**
 - **Angular | React**
 - **Node.js**
+- **.NET**
+- **C#**
+- **Vue.js**
 - **Python**
 - **Java**
 - **APIs REST**
